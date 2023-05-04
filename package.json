@@ -1,0 +1,11 @@
+{
+  "name": "mis-tareas",
+  "version": "1.0.0",
+  "description": "(completada o no)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jairo Durango",
+  "license": "ISC"
+}
