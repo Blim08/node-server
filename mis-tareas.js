@@ -32,10 +32,10 @@ const readline = require("readline").createInterface({
   
   function iniciarPrograma(){
     readline.question(`escriba segun el caso:
-    1:añadir tarea
-    2:eliminar tarea
-    3:completar tarea
-    4:finalizar tarea
+    1:Añadir tarea
+    2:Eliminar tarea
+    3:Completar tarea
+    4:Finalizar tarea
     =>`, (opcion) =>{
       opcion = opcion.trim().toLowerCase();
   
